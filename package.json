@@ -35,7 +35,6 @@
     "phantomjs": "./bin/phantomjs"
   },
   "scripts": {
-    "install": "node install.js",
     "test": "nodeunit --reporter=minimal test/tests.js && eslint ."
   },
   "dependencies": {
