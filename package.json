@@ -10,7 +10,7 @@
   "homepage": "https://github.com/Medium/phantomjs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Medium/phantomjs.git"
+    "url": "git://github.com/Kibyra/phantomjs.git"
   },
   "license": "Apache-2.0",
   "author": {
